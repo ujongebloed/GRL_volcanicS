@@ -1,4 +1,0 @@
-Known Bugs
-==========
-
-TBD
